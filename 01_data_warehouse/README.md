@@ -23,13 +23,7 @@ The project showcases practical applications of:
 
 The warehouse follows the Medallion Architecture approach consisting of Bronze, Silver, and Gold layers.
 
-<p align="center">
-  <img src="docs/data_architecture.png" width="900">
-</p>
-
-<p align="center">
-  <em>Figure 1: Data Warehouse Architecture</em>
-</p>
+![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw source data exactly as received from the source systems.
 
