@@ -31,11 +31,11 @@ The warehouse follows the Medallion Architecture approach consisting of Bronze, 
   <em>Figure 1: Data Warehouse Architecture</em>
 </p>
 
-### Bronze Layer: # Stores raw source data exactly as received from the source systems.
+1. **Bronze Layer**: Stores raw source data exactly as received from the source systems.
 
-### Silver Layer: Stores cleaned, standardized, and validated data.
+2. **Silver Layer**: Stores cleaned, standardized, and validated data.
 
-### Gold Layer: Stores business-ready datasets optimized for analytical reporting.
+3. **Gold Layer**: Stores business-ready datasets optimized for analytical reporting.
 
 ---
 
