@@ -18,7 +18,7 @@ This project uses the curated analytical datasets developed in:
 
 ### Project 01 - Data Warehouse
 
-📂 Dataset Repository:
+📂 Datawarehouse Repository:
 
 [01_data_warehouse](https://github.com/vipulsourabh/sql-analytics-portfolio-project/tree/main/01_data_warehouse)
 
