@@ -20,10 +20,6 @@ This project uses the curated datasets and analytical models developed in **Proj
 
 📂 Dataset Location:
 
-https://github.com/vipulsourabh/sql-analytics-portfolio-project/tree/main/01_data_warehouse/datasets
-
-Or as a clickable link:
-
 [View Data Warehouse Datasets](https://github.com/vipulsourabh/sql-analytics-portfolio-project/tree/main/01_data_warehouse/datasets)
 
 The analysis in this project is performed using the business-ready datasets created during the data warehousing phase.
